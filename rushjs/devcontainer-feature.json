@@ -1,0 +1,10 @@
+{
+    "containerEnv": {},
+    "id": "rushjs",
+    "installsAfter": [
+        "pnpm"
+    ],
+    "name": "rushjs",
+    "options": {},
+    "version": "0.0.1"
+}
